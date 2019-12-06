@@ -1,5 +1,5 @@
-# mypy
+# Const使用总结
 C++练习1 Const
 
-Const 修饰符 作用：定义常量
+1、Const 修饰符 作用：定义常量
 
