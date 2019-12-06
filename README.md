@@ -5,4 +5,5 @@ C++练习1 Const
 
 const int a = 100;
 
-# 和#Define的区别
+2、和#Define的区别
+
